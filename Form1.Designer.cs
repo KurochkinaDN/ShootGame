@@ -1,4 +1,4 @@
-﻿namespace Shoot_Out_Game_MOO_ICT
+﻿namespace Shoot_Out_Game
 {
     partial class Form1
     {
