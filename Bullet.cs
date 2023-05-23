@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Shoot_Out_Game_MOO_ICT
+namespace Shoot_Out_Game
 {
     class Bullet
     {
