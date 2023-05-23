@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Shoot_Out_Game_MOO_ICT
+namespace Shoot_Out_Game
 {
     public partial class Form1 : Form
     {
