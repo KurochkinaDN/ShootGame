@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Shoot_Out_Game_MOO_ICT
+namespace Shoot_Out_Game
 {
     static class Program
     {
